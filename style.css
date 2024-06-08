@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+    color: gold;
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.item-list{
+    background-color: goldenrod;
+    text-align: left;
+    font-size: 22px;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
