@@ -1,0 +1,30 @@
+.waffle-image,
+.fried-chicken-image,
+.lasagna-image{
+    height: auto;
+    width: 300px;
+}
+
+.recipe-name{
+    text-align: center;
+    font-size: 40px;
+    color: sienna;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.section{
+    background-color: bisque;
+    color: midnightblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.content{
+    text-align: left;
+    color: black;
+    background-color: burlywood;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
